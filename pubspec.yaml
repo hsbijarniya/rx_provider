@@ -1,7 +1,8 @@
 name: rx_provider
 description: A simple yet powerful state management inspired from provider.
-version: 0.0.5
+version: 0.0.6
 homepage: https://ensorta.com
+repository: https://github.com/hsbijarniya/rx_provider
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

@@ -1,3 +1,7 @@
+## 0.0.6
+
+* Added github repository.
+
 ## 0.0.5
 
 * Class name changed from ConsumerNotifier to ProviderState
